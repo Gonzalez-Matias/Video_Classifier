@@ -1,0 +1,6 @@
+Pillow==9.0.1
+pytest==7.1.1
+redis==4.1.4
+protobuf~=3.19.0
+tensorflow==2.8.0
+opencv-python==4.4.0.40
